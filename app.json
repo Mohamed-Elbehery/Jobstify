@@ -8,6 +8,23 @@
       "expo-router"
     ],
     "name": "js-mastery",
-    "slug": "js-mastery"
+    "slug": "jobstify",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "53869eed-c203-43ac-adbf-18047c3c214e"
+      }
+    },
+    "owner": "mohame-elsharqawi",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/53869eed-c203-43ac-adbf-18047c3c214e"
+    },
+    "android": {},
+    "ios": {}
   }
 }
