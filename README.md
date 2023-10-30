@@ -1,14 +1,3 @@
-# Expo Router Example
+# Jobstify
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Jobstify is a web application that helps users search and apply for jobs. With Jobstify, users can search for jobs based on keywords, job title, company name, and location. The application also allows users to save jobs for later, create job alerts, and update their resumes.
